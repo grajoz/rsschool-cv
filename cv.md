@@ -6,8 +6,8 @@
 
 Contact Info:
 
-Email: *grajoz@yandex.ru*
-tel:02
+1 Email: *grajoz@yandex.ru*
+2 tel:02
 
 ***
 
