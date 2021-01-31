@@ -6,8 +6,10 @@
 
 Contact Info:
 
-1 Email: *grajoz@yandex.ru*
-2 tel:02
+1 Email: *grajoz@yandex.ru*, *grajoz78@gmail.com*
+
+2 tel:+79270545704
+3 tel:+380974302370
 
 ***
 
@@ -41,12 +43,6 @@ simle
 ***
 ###### CODE
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+https://github.com/grajoz/
 ***
 ***
