@@ -6,10 +6,10 @@
 
 Contact Info:
 
-1 Email: *grajoz@yandex.ru*, *grajoz78@gmail.com*
+1. Email: *grajoz@yandex.ru*, *grajoz78@gmail.com*
 
-2 tel:+79270545704
-3 tel:+380974302370
+2. tel (ru and telegram):+79270545704
+3. tel (ua and viber):+380974302370
 
 ***
 
@@ -19,20 +19,18 @@ I like learning something new and really want to change my sphere of activity.
 ## Skills:
 * HTML
 * CSS
-* JAVA
-* VB
-* ~Javascript Basics~
-* EWB
+* Javascript Basics
+* React
 
 
 ## Expirience
-Coding landing pages, coding android, drive in taxi.
+Coding landing pages,  drive in taxi.
 
 ## Education
 STATE TECHNICAL UNIVERSITY OF SARATOV
 
 ## English
-simle
+beginner
 
 ***
 
