@@ -7,7 +7,6 @@
 Contact Info:
 
 1. Email: *grajoz@yandex.ru*, *grajoz78@gmail.com*
-
 2. tel (ru and telegram):+79270545704
 3. tel (ua and viber):+380974302370
 
